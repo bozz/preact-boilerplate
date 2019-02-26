@@ -2,4 +2,6 @@
 .svn
 .DS_Store
 node_modules
+build
+.cache
 *.tap
