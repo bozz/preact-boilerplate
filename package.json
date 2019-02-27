@@ -20,7 +20,8 @@
     "babel-preset-env": "^1.7.0",
     "eslint": "^5.14.1",
     "eslint-plugin-react": "^7.12.4",
-    "parcel-bundler": "^1.11.0"
+    "parcel-bundler": "^1.11.0",
+    "sass": "^1.17.2"
   },
   "dependencies": {
     "preact": "^8.4.2"
